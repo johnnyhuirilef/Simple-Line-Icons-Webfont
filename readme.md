@@ -18,3 +18,9 @@ names) and the Unicode points of your glyphs are saved in this file.
 
 These fonts converted to SVG using Illustrator, the SVG was then converted into a font
 using the awesome Icooon app (http://icomoon.io/app)
+
+## Install
+
+#### [Bower](http://bower.io/search/?q=simplelineicons-webfont)
+```
+bower install simplelineicons-webfont
